@@ -1,5 +1,6 @@
 ## 概述
 - 如果你还没有下载termux可以点击[这里](https://f-droid.org/en/packages/com.termux/)
+- 若你没有科学环境可以自行搜索下载，或者点击[这里](https://m.youxibao.com/app/15333.html)
   
 - 假如你在代码使用的过程中出现
 >Do you want to continue? [Y/n]
