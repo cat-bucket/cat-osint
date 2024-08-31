@@ -8,7 +8,8 @@ def fetch_url(ip_suffix):
     url = f"http://121.196.237.{ip_suffix}"
     try:
         response = requests.get(url)
-        print(url)
+        if response.status_code == 200:
+            print(url)
     except requests.exceptions.RequestException:
         
         pass
@@ -26,4 +27,4 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("已停止循环。")
+        pass
