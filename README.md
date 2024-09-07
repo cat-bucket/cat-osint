@@ -16,7 +16,7 @@
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
   将手机号替换为你需要轰炸的手机号
 
-  ### 邮箱轰炸（匿名但无法指定内容）
+  ### 邮箱轰炸（无需邮箱但无法指定内容）
  `pkg install git && pkg install php && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber `
  
 
@@ -30,7 +30,7 @@
 替换要轰炸的邮箱
 
 
-  ### 邮箱轰炸 (不匿名但可以指定内容)
+  ### 邮箱轰炸 (需邮箱但可以指定内容)
 
 
 ## 免责声明
