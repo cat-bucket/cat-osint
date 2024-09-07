@@ -11,7 +11,8 @@
 # 一键代码使用
    ## 短信轰炸
   
-  `pkg install git && pkg install python && pkg install openssl &&  git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py`
+  `pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py
+`
 - 直接粘贴代码进入即可，后续可以直接使用下列指令
 - 
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
@@ -21,7 +22,8 @@
   
   在使用之前配置
   
- `pkg install git && pkg install php && pkg install python && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber `
+ `pkg install git -y && pkg install php -y && pkg install python -y && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber
+`
  
 
 ### 无需邮箱但无法指定内容
