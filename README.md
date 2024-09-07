@@ -17,7 +17,7 @@
   将手机号替换为你需要轰炸的手机号
 
   ### 邮箱轰炸
- `pkg install git && pkg install php && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber && `
+ `pkg install git && pkg install php && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber `
  
 
  
