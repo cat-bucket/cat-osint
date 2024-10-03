@@ -1,1 +1,1 @@
-—7? 
+pkg install git -y && pkg install php -y && pkg install python -y && git clone https://github.com/cat-bucket/mail-bomber && cd mail-bomber
