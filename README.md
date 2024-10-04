@@ -8,7 +8,7 @@
 >
 - 直接回车enter即可
 
-[猫桶](https://catbucket.cn/)
+作者的小站点击[这里](https://catbucket.cn/)
   
 # 一键代码使用
    ## 短信轰炸
