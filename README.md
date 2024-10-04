@@ -8,7 +8,7 @@
 >
 - 直接回车enter即可
 
-作者的小站点击[这里](https://catbucket.cn/)
+如果需要免费代理点击[这里](https://catbucket.cn/)
   
 # 一键代码使用
    ## 短信轰炸
@@ -19,6 +19,9 @@
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
   将手机号替换为你需要轰炸的手机号
 
+
+  如果需要配置代理点击[这里](https://catbucket.cn/)
+  
   ## 邮箱轰炸
   
   在使用之前配置
