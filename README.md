@@ -8,7 +8,7 @@
 >
 - 直接回车enter即可
 
-[猫桶](https://catbucket.cn)
+[猫桶](https://catbucket.cn/chat.html)
   
 # 一键代码使用
    ## 短信轰炸
