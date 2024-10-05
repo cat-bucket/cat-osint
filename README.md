@@ -17,16 +17,6 @@
   `cd SMSBoom;python smsboom.py run -t 64 -p 184****9269 -f 60 `
   将手机号替换为你需要轰炸的手机号
 
-### 代理的使用
- 代理可以帮助你隐藏真实IP（切勿进行非法活动）
- 
- 如果你需要免费的代理IP可以点击[这里](https://catbucket.cn)
-
-
-将代理粘贴到 http_proxy.txt socks4_proxy.txt socks5_proxy.txt 
-比如 假如使用http代理 就可以`cd SMSBoom && nano http_proxy.txt`
-然后粘贴 最后命令参数添加 -e 执行即可.
-
   ## 邮箱轰炸
   
   在使用之前配置
