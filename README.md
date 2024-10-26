@@ -1,7 +1,7 @@
 # 概述
   
 - 如果你还没有下载termux可以点击[这里](https://f-droid.org/en/packages/com.termux/)
-- 随机点击[这里](https://catbucket.cn)
+
   
 - 假如你在代码使用的过程中出现类似于的选项。
 >Do you want to continue? [Y/n]
