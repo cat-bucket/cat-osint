@@ -1,5 +1,7 @@
 # 概述
   
+免费机场[这里]（https://glados.space/landing/6FLMR-A44DY-TWEHO-11MET）
+
 - 如果你还没有下载termux可以点击[这里](https://f-droid.org/en/packages/com.termux/)
 
 
