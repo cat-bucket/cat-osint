@@ -1,6 +1,10 @@
 # encoding=utf8
 # 短信测压主程序
 
+from utils import default_header_user_agent
+from utils.log import logger
+from utils.models import API
+from utils.req import reqFunc, reqFuncByProxy, runAsync
 from concurrent.futures import ThreadPoolExecutor
 from typing import List, Union
 import asyncio
