@@ -1,6 +1,5 @@
 # 概述
   
-免费机场 干净IP TG不封 老牌稳定[这里](https://glados.space/landing/6FLMR-A44DY-TWEHO-11MET)
 
 - 如果你还没有下载termux可以点击[这里](https://f-droid.org/en/packages/com.termux/)
 
