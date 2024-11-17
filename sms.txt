@@ -1,2 +1,2 @@
-pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/cat-bucket/cat-osint && cd cat-osint && pip install -r requirements.txt && python main.py 
+pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/cat-bucket/cat-osint && cd cat-osint && pip install -r requirements.txt && python easy.py 
 
