@@ -1,2 +1,2 @@
-pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/AdminWhaleFall/SMSBoom.git/ && cd SMSBoom && pip install -r requirements.txt && python smsboom.py 
+pkg install git -y && pkg install python -y && pkg install openssl -y && git clone https://github.com/catbucket/cat-osint && cd cat-osint && pip install -r requirements.txt && python main.py 
 
