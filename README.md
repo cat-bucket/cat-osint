@@ -15,12 +15,11 @@
   `source <(curl -L https://raw.githubusercontent.com/cat-bucket/cat-osint/main/sms.txt)`
 - 直接粘贴代码进入即可，后续可以直接使用下列指令（不要更新接口）
 
-- 超级傻瓜版
+- 基本版
   `cd cat-osint;python easy.py`
   
-- 
+- 不同参数（同原版smsboom）
   `cd cat-osint;python main.py run -t 64 -p 184****9269 -f 60 `
-  将手机号替换为你需要轰炸的手机号
 
   ## 邮箱轰炸
   
