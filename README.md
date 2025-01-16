@@ -9,7 +9,7 @@
 >
 - 直接回车enter即可
 
-免费GPT o1 模型支持 邀请可Pro [这里](https://chat01.ai/?ref=AH4NeCmB)
+
 
 # 一键代码使用
    ## 短信轰炸
