@@ -8,7 +8,7 @@
 >Do you want to continue? [Y/n]
 >
 - 直接回车enter即可
-免费GPT 4o o1 [这里](https://chat01.ai/?ref=AH4NeCmB)
+免费GPT 4o o3 claude 3.7[这里](https://flowith.io/invitation?code=G5PNEH)
 
 
 # 一键代码使用
