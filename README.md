@@ -8,7 +8,7 @@
 >Do you want to continue? [Y/n]
 >
 - 直接回车enter即可
-免费GPT 4o o3 claude 3.7[这里](https://flowith.io/invitation?code=G5PNEH)
+免费GPT 4o o3 claude 3.7[这里](https://flowith.io/invitation?code=6QTC12)
 
 
 # 一键代码使用
