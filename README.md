@@ -9,7 +9,7 @@
 >
 - 直接回车enter即可
 
-免费AI chatgpt o3 [这里]（https://chat01.ai/?ref=AH4NeCmB/）
+免费AI chatgpt o3 [这里](https://chat01.ai/?ref=AH4NeCmB/)
 
 
 # 一键代码使用
